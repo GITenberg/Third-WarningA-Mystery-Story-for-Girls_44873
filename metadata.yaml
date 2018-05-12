@@ -1,0 +1,32 @@
+_repo: Third-WarningA-Mystery-Story-for-Girls_44873
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44873-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Snell, Roy J. (Roy Judson)
+    alias: Snell, Roy Judson
+    birthdate: 1878
+    deathdate: 1959
+    gutenberg_agent_id: '3593'
+    url: http://www.gutenberg.org/2009/agents/3593
+description: ''
+gutenberg_issued: '2014-02-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44873'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Motorboats -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Isle Royale (Mich.) -- Juvenile fiction'
+- !lcsh 'Superior, Lake -- Juvenile fiction'
+- !lcsh 'Mystery and detective stories'
+title: 'Third Warning
+
+  A Mystery Story for Girls'
+url: http://www.gutenberg.org/ebooks/44873
