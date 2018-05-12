@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '3593'
     url: http://www.gutenberg.org/2009/agents/3593
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44873#Third-WarningA-Mystery-Story-for-Girls
 gutenberg_issued: '2014-02-11'
 gutenberg_type: Text
 identifiers:
